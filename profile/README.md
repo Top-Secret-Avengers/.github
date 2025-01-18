@@ -4,7 +4,7 @@
 
 ## Organization Overview
 
-At Flag Relay, we believe in learning by doing. We create practical challenges, tutorials, and tools for anyone interested in cybersecurity, whether you're a beginner or an experienced professional. Our projects range from beginner-friendly CTF challenges to more advanced exploitation and defense techniques.
+We believe in learning by doing. We create practical challenges, tutorials, and tools for anyone interested in cybersecurity, whether you're a beginner or an experienced professional. Our projects range from beginner-friendly CTF challenges to more advanced exploitation and defense techniques. 
 
 ## Projects
 
