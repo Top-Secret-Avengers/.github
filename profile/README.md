@@ -8,13 +8,13 @@ We believe in learning by doing. We create practical challenges, tutorials, and 
 
 ## Projects
 
-- **Flag Relay**  
+- **Flag Relay**[🔗](https://github.com/Top-Secret-Avengers/FlagRelay)  
   The Flag Relay project is a resource meant to easily host an answer submitting app. You can set it up with one of our CTFs or your own!
 
-- **Cybersecurity Resources**  
+- **Cybersecurity Resources**[🔗](https://github.com/Top-Secret-Avengers/Written-Guides)  
   Curated resources such all designed to deepen your knowledge of cybersecurity.
   
-- **Bobby's Vault**  
+- **Bobby's Vault**[🔗](https://github.com/Top-Secret-Avengers/Bobbys-Vault)  
   Collection of CTF challenges for beginners or experts.
 
 ## Join Us!
