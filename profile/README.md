@@ -9,10 +9,13 @@ We believe in learning by doing. We create practical challenges, tutorials, and 
 ## Projects
 
 - **Flag Relay**  
-  The Flag Relay project is a resource meant to easily host beginner friendly CTFs to learn more about cybersecurity
+  The Flag Relay project is a resource meant to easily host an answer submitting app. You can set it up with one of our CTFs or your own!
 
 - **Cybersecurity Resources**  
   Curated resources such all designed to deepen your knowledge of cybersecurity.
+  
+- **Bobby's Vault**  
+  Collection of CTF challenges for beginners or experts.
 
 ## Join Us!
 We're always looking for contributors and learners! If you're passionate about cybersecurity and hacking and want to learn more join us on [Discord](https://discord.gg/Ptj6Q2YwXB).
